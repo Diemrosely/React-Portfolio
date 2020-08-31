@@ -2,6 +2,7 @@ This portfolio was made with bootstrap, react, and react router.  Features inclu
 
 Deployed Link: 
 
+https://diemrosely.github.io/React-Portfolio/
 
 ![Gif](src/assets/Images/portfolio.gif)
 
