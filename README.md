@@ -1,3 +1,15 @@
+This portfolio was made with bootstrap, react, and react router.  Features include different pages to allow users to contact, inquire about the developer, as well as download resume, connect on social media and send inquiries directly to the developer's email address.  User Interface is also very simply and easy to navigate. 
+
+Deployed Link: 
+
+
+
+
+## Collaborators: 
+
+Kenneth Wardlow
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
