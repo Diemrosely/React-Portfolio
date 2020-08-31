@@ -3,7 +3,7 @@ This portfolio was made with bootstrap, react, and react router.  Features inclu
 Deployed Link: 
 
 
-
+![Gif](assets/images/portfolio.gif)
 
 ## Collaborators: 
 
